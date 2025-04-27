@@ -1,0 +1,36 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (10/10/2024 19:59:03)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [Custom Sounds 2.3.2]
+[Info   :CustomSounds] "HideManagerGameObject" is correctly set to true.
+[Info   :CustomSounds] Plugin CustomSounds is loaded!
+[Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
+[Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] FilePath: C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault.ogg
+[Info   : Unity Log] Sound replaced: ShovelHitDefault (File Extension = ogg)
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault.ogg from path: C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault.ogg
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault.ogg with length of 0.616!
+[Info   : Unity Log] FilePath: C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault2.ogg
+[Info   : Unity Log] Sound replaced: ShovelHitDefault2 (File Extension = ogg)
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault2.ogg from path: C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault2.ogg
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\ender\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\mod making stuff\BepInEx\plugins\CustomSounds\getbonked\ShovelHitDefault2.ogg with length of 0.616!
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM1, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM2, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM3, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM4, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM5, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: IMESelected, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Using NewInputSystem
+[Warning: Unity Log] MaximizedWindow is not currently supported on Windows, setting to FullsceenWindow instead

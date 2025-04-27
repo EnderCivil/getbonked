@@ -1,0 +1,11 @@
+{
+    "name": "getbonked",
+    "version_number": "1.0.0",
+    "website_url": "https://thunderstore.io/c/lethal-company/p/endercivil/getbonked/",
+    "description": "This mod simply replaces the melee weapon sound with the bonk meme sound effect.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100", 
+        "Clementinise-CustomSounds-2.3.2",
+        "no00ob-LCSoundTool-1.5.1"
+    ]
+}

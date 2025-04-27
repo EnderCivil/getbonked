@@ -1,2 +1,3 @@
-# getbonked
-Lethal Company - Replaces the shovel hit sound effects with the bonk meme sound effect.
+# Lethal Company Bonk Sound Mod
+
+Replaces the melee weapon sounds with the Bonk sound meme effect.
